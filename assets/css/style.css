@@ -483,8 +483,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #ImagemPrincipal{
   border:solid red !important;
-  height: fit-content;
-  width: fit-content;
+  height: 300px;
+  width: 200px;
 }
 
 @media (max-width: 1199px) {
