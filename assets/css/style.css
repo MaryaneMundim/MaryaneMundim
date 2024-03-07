@@ -482,15 +482,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #ImagemPrincipal{
-  height: 450px;
-  width: 450px;
-}
-
-@media (max-width: 1199px) {
-  #ImagemPrincipal {
-    max-width: 130%;
-  }
-
+  height: 350px;
+  width: 350px;
 }
 
 @media (max-width: 991px) {
@@ -506,9 +499,6 @@ h1, h2, h3, h4, h5, h6 {
   #hero .animated {
     -webkit-animation: none;
     animation: none;
-  }
-  #ImagemPrincipal {
-    max-width: 50%;
   }
   #hero .hero-img img {
     width: 50%;
@@ -528,9 +518,6 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 30px;
-  }
-  #ImagemPrincipal {
-    max-width: 60%;
   }
 }
 
