@@ -856,8 +856,8 @@ section {
 # Skills
 --------------------------------------------------------------*/
 
-#ComoPossoAjudar {
-  background: #ffebf7ee;
+.cpa-card {
+  background: #ffebf7ee !important;
 }
 
 .CPA .icon-box {
@@ -1490,9 +1490,6 @@ section {
 /*--------------------------------------------------------------
 # Frequently Asked Questions
 --------------------------------------------------------------*/
-.faq .faq-list {
-  padding: 0 100px;
-}
 
 .faq .faq-list ul {
   padding: 0;
